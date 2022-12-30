@@ -521,7 +521,7 @@
     align-items: flex-end;
     padding-top: 92px;
     padding-bottom: 110px;
-    margin-left: 22vw;
+    margin-left: 24vw;
 }
 
 .contact-wrapper {
@@ -595,16 +595,6 @@
     background-color: rgb(229, 229, 229);
     font-family: "Open Sans", Helvetica, Arial, sans-serif;
 }
-
-/* .contact-form-message {
-    display: flex;
-    align-items: center;
-    font-size: 16px;
-    width: 339px;
-    height: 69px;
-    background-color: rgb(229, 229, 229);
-    font-family: "Open Sans", Helvetica, Arial, sans-serif;
-} */
 
 .contact-form-wrapper {
     padding-top: 75px;
@@ -685,7 +675,7 @@
     }
 
     .contact-info {
-        margin-left: 15vw;
+        margin-left: 10vw;
     }
 
     .contact-details {
@@ -735,7 +725,7 @@
     }
 
     .contact-info {
-        padding-left: 5vw;
+        margin-left: 5vw;
     }
 
     .contact-details {
