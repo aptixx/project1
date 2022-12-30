@@ -577,9 +577,10 @@
     font-size: 16px;
     width: 339px;
     height: 69px;
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
 }
 
-.contact-form-email {
+.contact-form-message {
     resize: none;
     font-size: 16px;
     width: 100%;
@@ -591,16 +592,18 @@
     border: none;
     border-radius: 5px;
     background-color: rgb(229, 229, 229);
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
 }
 
-.contact-form-message {
+/* .contact-form-message {
     display: flex;
     align-items: center;
     font-size: 16px;
     width: 339px;
     height: 69px;
     background-color: rgb(229, 229, 229);
-}
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+} */
 
 .contact-form-wrapper {
     padding-top: 75px;
