@@ -742,6 +742,10 @@
         margin-left: 7vw;
     }
 
+    .main-wrapper > h1 {
+        font-size: 40px;
+    }
+
     .office-image {
         max-width: 100%;
         height: auto;
@@ -769,7 +773,7 @@
     }
 
     .main-wrapper > h1 {
-        font-size: 40px;
+        font-size: 30px;
     }
 
     .introduction {
