@@ -747,20 +747,15 @@
     }
 
     .office-image {
-        max-width: 100%;
+        max-width: 97%;
         height: auto;
     }
 
-    .we-provide {
-        margin-left: 7vw;
-    }
-
-    .ourteam {
-        margin-left: 7vw;
-    }
-
+    .we-provide,
+    .products-portfolio,
+    .ourteam,
     .contact-info {
-        margin-left: 7vw;
+        margin-left: 5vw;
     }
 }
 
@@ -781,7 +776,7 @@
     }
 
     .office-image {
-        max-width: 100%;
+        max-width: 95%;
         height: auto;
     }
 
@@ -814,20 +809,15 @@
         max-width: 100%;
     }
 
-    .we-provide {
-        margin-left: 5vw;
-    }
-
-    .ourteam {
-        margin-left: 5vw;
+    .we-provide,
+    .products-portfolio,
+    .ourteam,
+    .contact-info {
+        margin-left: 3vw;
     }
 
     .ourteam-info {
         max-width: 100%;
-    }
-
-    .contact-info {
-        margin-left: 5vw;
     }
 
     .contact-form-main-details {
