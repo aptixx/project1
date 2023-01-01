@@ -430,10 +430,6 @@
     justify-content: space-between;
 }
 
-.ourstaff-member:not(:last-child) {
-    margin-right: 10px;
-}
-
 .ourstaff-name {
     display: flex;
     justify-content: center;
